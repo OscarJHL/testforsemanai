@@ -1,2 +1,0 @@
-new file-
-edicion en linea de una archivo creado en el repositorio local y subido a la red
